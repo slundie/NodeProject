@@ -1,0 +1,4 @@
+var msg = 'Hellow World';
+const name = 'Sam';
+console.log(msg)
+console.log(name);
